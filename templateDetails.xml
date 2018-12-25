@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.8" type="template" client="site">
+ <name>gorod</name>
+ <creationDate>Декабрь 2018</creationDate>
+ <author>Oleg</author>
+ <authorEmail>qwedass@i.ua</authorEmail>
+ <authorUrl>http://ogonk.icu</authorUrl>
+ <copyright>TPL_GOROD_COPY</copyright>
+ <license>TPL_GOROD_LICENSE</license>
+ <version>1.1.0</version>
+ <description>TPL_GOROD_DESC</description>
+ <files>
+  <filename>index.php</filename>
+  <filename>index.html</filename>
+  <filename>templateDetails.xml</filename>
+  <filename>template_preview.png</filename>
+  <filename>template_thumbnail.png</filename>
+  
+ <filename>est_css.css</filename>
+  <folder>html</folder>
+  <folder>images</folder>
+ <folder>language</folder> 
+ </files>
+ <positions>
+  <position>position-0</position>
+  <position>position-1</position>
+  <position>position-2</position>
+  </positions>
+  <language folder="language">
+     <language tag="ru-RU">ru-RU/ru-RU.tpl_Gorod.ini</language>
+    <language tag="ru-RU">ru-RU/ru-RU.tpl_Gorod.sys.ini</language>
+    
+    <language tag="en-GB">en-GB/en-GB.tpl_Gorod.ini</language>
+    <language tag="en-GB">en-GB/en-GB.tpl_Gorod.sys.ini</language>
+    
+  	
+  </language>
+</extension>
